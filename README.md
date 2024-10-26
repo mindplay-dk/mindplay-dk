@@ -19,7 +19,7 @@
 * [`kodus/image-hash`](https://github.com/mindplay-dk/image-hash) ~ image similarity hashing
 * [`mindplay/middleman`](https://github.com/mindplay-dk/middleman) ~ PSR-based middleware stack
 * [`mindplay/testies`](https://github.com/mindplay-dk/testies) ~ test framework
-* [`kodus/sapi-host`](https://github.com/mindplay-dk/sapi-host) ~ PSR-based HTTP host
+* [`mindplay/sapi-host`](https://github.com/mindplay-dk/sapi-host) ~ PSR-based HTTP host
 * [`kodus/session`](https://github.com/kodus/session) ~ PSR-based session management
 
 #### C# / .NET
